@@ -1,0 +1,22 @@
+{
+  "name": "fcc_filemetadata",
+  "version": "1.0.0",
+  "description": "https://www.freecodecamp.org/challenges/file-metadata-microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exenza/FCC_filemetadata.git"
+  },
+  "author": "Massimo Berta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exenza/FCC_filemetadata/issues"
+  },
+  "homepage": "https://github.com/exenza/FCC_filemetadata#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
